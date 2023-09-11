@@ -1,6 +1,6 @@
 /* Your CSS Code here. */ 
      header { 
-         background-color: #333; 
+         background-color: darkblue; 
          color: #fff; 
          padding: 20px; 
          text-align: center; 
@@ -33,7 +33,7 @@
      } 
   
      footer { 
-         background-color: #333; 
+         background-color: darkblue;
          color: #fff; 
          padding: 10px; 
          text-align: center; 
